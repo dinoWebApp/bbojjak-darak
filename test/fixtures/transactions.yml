@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 1
+  product_name: MyString
+  option_name: MyString
+  customer_name: MyString
+  quantity: 1
+  customer_address: MyString
+  customer_phone_number: MyString
+  paid_at: 2025-07-10 22:04:06
+  product: one
+  user: one
+
+two:
+  amount: 1
+  product_name: MyString
+  option_name: MyString
+  customer_name: MyString
+  quantity: 1
+  customer_address: MyString
+  customer_phone_number: MyString
+  paid_at: 2025-07-10 22:04:06
+  product: two
+  user: two
